@@ -15,6 +15,7 @@ alias upgrade='sudo apt-get upgrade'
 alias update='sudo apt-get update'
 alias remove='sudo apt-get remove'
 alias install='sudo apt-get install'
+alias git-local-repo-set-hidden-email-for-github="git config --local user.name \"Jacek Musiał\" && git config --local user.email \"7474972+jacekmusial@users.noreply.github.com\""
 
 export PATH="/home/jacekmusial/bin/Sencha/Cmd:$PATH"
 export JAVA_HOME="/usr/lib/jvm/java-1.8.0-openjdk-amd64"
