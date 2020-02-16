@@ -41,7 +41,6 @@ plugins=(
 	git
 	dotenv
 	bundler
-	zsh-sdkman
 	docker
 	vagrant
 	git-extras
